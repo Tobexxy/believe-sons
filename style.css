@@ -281,6 +281,11 @@ img {
   height: auto;
 }
 
+#abt img {
+  max-width: 50%;
+  height: auto;
+}
+
 #logg-footer img {
   max-width: 25%;
   height: auto;
@@ -1879,7 +1884,7 @@ header {
 /*-----------------------------------------------------------------------------------*/
 /*Waiting*/
 .waiting-block {
-  background-image: url(img/banner-reservation-bg.png);
+  background-image: url(img/gem.jpg);
   position: relative;
   padding: 170px 0px 105px 0px;
   background-size: cover;
